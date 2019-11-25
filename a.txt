@@ -3,4 +3,4 @@ bbbbbbb
 vvvvv
 
 
-public static void main
+public static void mains
